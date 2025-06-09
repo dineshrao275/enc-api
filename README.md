@@ -44,7 +44,3 @@ Authenticated Article Routes:
 * GET /api/article/{id} - View a specific article
 * PUT /api/article/{id} - Update a specific article
 * DELETE /api/article/{id} - Delete a specific article
-
-Encryption Routes:
-* POST /api/encrypt - Encrypt data using the current user's API key
-* POST /api/decrypt - Decrypt data using the current user's API key
